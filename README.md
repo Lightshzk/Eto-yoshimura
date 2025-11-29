@@ -2,6 +2,9 @@
 
 # 🦉 Eto Yoshimura Bot - WhatsApp
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40f75717-4c9c-4be3-bed6-ffb5f6dd03f6" />
+
+
 ![Tokyo Ghoul](https://img.shields.io/badge/Tokyo%20Ghoul-Eto%20Yoshimura-red?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-14+-green?style=for-the-badge&logo=node.js)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
